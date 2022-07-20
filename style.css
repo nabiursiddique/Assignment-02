@@ -99,6 +99,7 @@ body{
 .side-button a{
     text-decoration: none;
     cursor: pointer;
+    color: #161616;
 }
 #blog-button{
     background-color: #DD0000;
